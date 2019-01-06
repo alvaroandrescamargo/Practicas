@@ -21,6 +21,8 @@ public class Main {
         ventana.setVisible(true);
         ventana.setLocationRelativeTo(null);     
         
+        System.err.println("");
+        
     }
     
 }
